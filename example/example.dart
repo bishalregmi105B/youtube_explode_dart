@@ -1,4 +1,4 @@
-import 'package:youtube_explode_dart/youtube_explode_dart.dart';
+import 'package:youtube_explode_dart_alpha/youtube_explode_dart.dart';
 
 Future<void> main() async {
   final yt = YoutubeExplode();

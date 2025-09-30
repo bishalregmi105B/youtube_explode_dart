@@ -3,7 +3,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:youtube_explode_dart/youtube_explode_dart.dart';
+import 'package:youtube_explode_dart_alpha/youtube_explode_dart.dart';
 import 'package:logging/logging.dart';
 
 // Initialize the YoutubeExplode instance.
