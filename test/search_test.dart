@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:test/test.dart';
-import 'package:youtube_explode_dart_alpha/youtube_explode_dart.dart';
+import 'package:youtube_explode_dart_alpha/youtube_explode_dart_alpha.dart';
 
 final rnd = Random();
 const letters = r'abcdefghilmnopqrstuvzjkwy1234567890!@#$%^&*()_+{}|"?><|~`|';

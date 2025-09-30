@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:meta/meta.dart';
 
-import '../../youtube_explode_dart.dart';
+import '../../youtube_explode_dart_alpha.dart';
 import '../reverse_engineering/pages/watch_page.dart';
 import '../reverse_engineering/player/player_response.dart';
 

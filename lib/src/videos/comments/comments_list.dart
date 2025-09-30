@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import '../../../youtube_explode_dart.dart';
+import '../../../youtube_explode_dart_alpha.dart';
 import '../../reverse_engineering/clients/comments_client.dart' as re;
 
 /// This list contains search videos.

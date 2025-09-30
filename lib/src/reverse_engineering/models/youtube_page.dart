@@ -1,7 +1,7 @@
 import 'package:html/dom.dart';
 import 'package:meta/meta.dart';
 
-import '../../../youtube_explode_dart.dart';
+import '../../../youtube_explode_dart_alpha.dart';
 import '../../extensions/helpers_extension.dart';
 import 'initial_data.dart';
 

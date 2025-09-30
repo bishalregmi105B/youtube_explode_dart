@@ -1,7 +1,7 @@
 import 'package:collection/collection.dart';
 import 'package:html/parser.dart' as parser;
 
-import '../../../youtube_explode_dart.dart';
+import '../../../youtube_explode_dart_alpha.dart';
 import '../../extensions/helpers_extension.dart';
 import '../../retry.dart';
 import '../models/initial_data.dart';

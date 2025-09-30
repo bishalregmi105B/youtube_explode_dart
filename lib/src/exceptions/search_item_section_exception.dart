@@ -1,6 +1,6 @@
 //
 
-import '../../youtube_explode_dart.dart';
+import '../../youtube_explode_dart_alpha.dart';
 
 /// Exception thrown when the Item Section is missing from a search request.
 class SearchItemSectionException extends YoutubeExplodeException {

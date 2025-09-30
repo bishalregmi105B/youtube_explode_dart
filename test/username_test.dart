@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:youtube_explode_dart_alpha/youtube_explode_dart.dart';
+import 'package:youtube_explode_dart_alpha/youtube_explode_dart_alpha.dart';
 
 void main() {
   group('These are valid usernames', () {

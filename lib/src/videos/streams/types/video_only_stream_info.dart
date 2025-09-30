@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:http_parser/http_parser.dart';
 
-import '../../../../youtube_explode_dart.dart';
+import '../../../../youtube_explode_dart_alpha.dart';
 import '../../../reverse_engineering/models/fragment.dart';
 import '../mixins/stream_info.dart';
 

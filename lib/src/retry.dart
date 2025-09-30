@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:logging/logging.dart';
 
-import '../youtube_explode_dart.dart';
+import '../youtube_explode_dart_alpha.dart';
 
 final _logger = Logger('YoutubeExplode.Retry');
 

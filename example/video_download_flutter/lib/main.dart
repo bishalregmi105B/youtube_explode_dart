@@ -4,7 +4,7 @@ import 'package:downloads_path_provider/downloads_path_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'package:permission_handler/permission_handler.dart';
-import 'package:youtube_explode_dart_alpha/youtube_explode_dart.dart';
+import 'package:youtube_explode_dart_alpha/youtube_explode_dart_alpha.dart';
 
 void main() {
   runApp(MyApp());

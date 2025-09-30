@@ -1,6 +1,6 @@
 import 'package:meta/meta.dart';
 
-import '../../youtube_explode_dart.dart';
+import '../../youtube_explode_dart_alpha.dart';
 import '../reverse_engineering/clients/related_videos_client.dart';
 
 /// This list contains videos related to another [Video].
